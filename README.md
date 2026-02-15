@@ -1,6 +1,7 @@
 # Sales_Performance_Analysis (Interactive Dashboard Creation using Power BI)
+
 ## Project Objective
-This is designed to monitor and evaluate sales activities, trends, and KPIs. It provides real-time insights into revenue, sales targets, top-performing products, and sales team performance, enabling data-driven decisions to optimize sales strategies and improve overall business outcomes.
+To develop an interactive dashboard that analyzes sales data to monitor revenue, track targets, evaluate product and sales team performance, and provide actionable insights that support strategic decision-making and business growth.
 
 ## Datasets Used
 <a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/blob/master/assets/datasets/Sample%20-%20Superstore.csv"> Sales Data </a>
