@@ -3,7 +3,7 @@
 ## Project Objective
 To develop an interactive dashboard that analyzes sales data to monitor revenue, track targets, evaluate product and sales team performance, and provide actionable insights that support strategic decision-making and business growth.
 
-## Datasets Used
+## Dataset Used
 <a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/blob/master/assets/datasets/Sample%20-%20Superstore.csv"> Sales Data </a>
 
 ## Questions (KPIs)
