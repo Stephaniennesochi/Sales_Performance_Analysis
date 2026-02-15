@@ -1,5 +1,5 @@
 # Sales_Performance_Analysis (Interactive Dashboard Creation using Power BI)
-## Project Description
+## Project Objective
 This is designed to monitor and evaluate sales activities, trends, and KPIs. It provides real-time insights into revenue, sales targets, top-performing products, and sales team performance, enabling data-driven decisions to optimize sales strategies and improve overall business outcomes.
 
 ## Datasets Used
@@ -23,8 +23,8 @@ This is designed to monitor and evaluate sales activities, trends, and KPIs. It 
 * Are there seasonal patterns in sales performance?
 * Which products contribute the most to overall sales performance?
 
-## SQL QUERIES
-<a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/tree/master/assets/sql_queries"> SQL QUERIES </a>
+## SQL Queries
+<a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/tree/master/assets/sql_queries"> SQL Queries </a>
 
 ## Dashboard Interactions
 <a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/blob/master/assets/images/sales_performance_dashboard.png"> View Dashboard </a>
