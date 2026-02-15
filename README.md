@@ -3,7 +3,7 @@
 This is designed to monitor and evaluate sales activities, trends, and KPIs. It provides real-time insights into revenue, sales targets, top-performing products, and sales team performance, enabling data-driven decisions to optimize sales strategies and improve overall business outcomes.
 
 ## Datasets Used
-<a href = ""> Sales Data </a>
+<a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/blob/master/assets/datasets/Sample%20-%20Superstore.csv"> Sales Data </a>
 
 ## Questions (KPIs)
 * What is the total revenue generated?
