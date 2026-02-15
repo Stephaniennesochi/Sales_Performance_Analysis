@@ -27,7 +27,7 @@ To develop an interactive dashboard that analyzes sales data to monitor revenue,
 ## SQL Queries
 <a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/tree/master/assets/sql_queries"> SQL Queries </a>
 
-## Dashboard Interactions
+## Dashboard Interaction
 <a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/blob/master/assets/images/sales_performance_dashboard.png"> View Dashboard </a>
 
 <img width="1165" height="636" alt="sales_performance_dashboard" src="https://github.com/user-attachments/assets/e21ed541-98b0-46e2-b10b-145769666382" />
