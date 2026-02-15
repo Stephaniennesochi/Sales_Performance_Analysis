@@ -1,4 +1,4 @@
 ## Queries for Sales Performance Analysis
 
 ## SQL Queries
-<a href = "">SQL Queries</a>
+<a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/tree/master/assets/sql_queries">SQL Queries</a>
