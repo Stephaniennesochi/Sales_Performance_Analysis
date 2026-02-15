@@ -24,7 +24,7 @@ This is designed to monitor and evaluate sales activities, trends, and KPIs. It 
 * Which products contribute the most to overall sales performance?
 
 ## SQL QUERIES
-<a href = ""> SQL QUERIES </a>
+<a href = "https://github.com/Stephaniennesochi/Sales_Performance_Analysis/tree/master/assets/sql_queries"> SQL QUERIES </a>
 
 ## Dashboard Interactions
 <a href = ""> View Dashboard </a>
