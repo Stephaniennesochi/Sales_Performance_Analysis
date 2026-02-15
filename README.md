@@ -3,7 +3,7 @@
 This is designed to monitor and evaluate sales activities, trends, and KPIs. It provides real-time insights into revenue, sales targets, top-performing products, and sales team performance, enabling data-driven decisions to optimize sales strategies and improve overall business outcomes.
 
 ## Datasets Used
-<a href = ""> Student Data </a>
+<a href = ""> Sales Data </a>
 
 ## Questions (KPIs)
 * What is the total revenue generated?
